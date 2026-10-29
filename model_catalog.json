@@ -91,6 +91,21 @@
       "owner": "arsenious",
       "owner_id": 24788213,
       "url": "https://raw.githubusercontent.com/arsenious/UFL_MODELS/88cbb73df0b24b223a292c8685057376784bb49e/rahul_isabel_tc_v1.pt"
+    },
+    {
+      "name": "junk_model",
+      "display_name": "Junk",
+      "description": "Random bytes named .pt (workflow test)",
+      "filename": "junk_model.pt",
+      "sha256": "97b0dfc0e4f932dae6cd5b82a62baa6c38bee1ae7b6e6ed643ac46054f414a87",
+      "min_dims": 3,
+      "max_dims": 5,
+      "registration_id": 7,
+      "id": "ufl:7@sha256:97b0dfc0e4f932dae6cd5b82a62baa6c38bee1ae7b6e6ed643ac46054f414a87",
+      "architecture": "caesar-bcrn-v1",
+      "owner": "arsenious",
+      "owner_id": 24788213,
+      "url": "https://raw.githubusercontent.com/arsenious/UFL_MODELS/6c10cff005f875998a747d954ac5354145367bde/junk_model.pt"
     }
   ]
 }
