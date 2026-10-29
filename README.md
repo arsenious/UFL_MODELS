@@ -63,5 +63,6 @@ python3 -m unittest discover -s test -v
 | 4 | microscopy (microscopy) | E53klasky | Active | microscopy.pt | 3D–5D | Domain-specific microscopy model; trained and tested across four microscopy datasets, with 3D–5D inputs. |
 | 5 | Xcompact3d latent 16x16 (Xcompact3d_latent_16_16) | E53klasky | Active | Xcompact3d_latent_16_16.pt | 3D–5D | Xcompact3d checkpoint; document training data and intended use |
 | 6 | rahul_isabel_tc_v1 (workflow test) (rahul_isabel_tc_v1) | arsenious | Active | rahul_isabel_tc_v1.pt | 3D–5D | Workflow test, not for production. caesar_v2 fine-tuned 3k steps on Hurricane Isabel TCf48 frames 0-79; held-out NRMSE 0.00623. |
+| 7 | Junk (junk_model) | arsenious | Active | junk_model.pt | 3D–5D | Random bytes named .pt (workflow test) |
 
 <!-- END GENERATED MODEL LIST -->
