@@ -91,6 +91,21 @@
       "owner": "arsenious",
       "owner_id": 24788213,
       "url": "https://raw.githubusercontent.com/arsenious/UFL_MODELS/bfe9f87dd74037005a2ff0816cde5884e7606566/conc_b.pt"
+    },
+    {
+      "name": "conc_a",
+      "display_name": "conc_a",
+      "description": "Concurrency test (workflow test)",
+      "filename": "conc_a.pt",
+      "sha256": "2af3196b5779c13f2760ca145e1d3ad81cc5d29399f27cecd3d033aa577795c9",
+      "min_dims": 3,
+      "max_dims": 5,
+      "registration_id": 8,
+      "id": "ufl:8@sha256:2af3196b5779c13f2760ca145e1d3ad81cc5d29399f27cecd3d033aa577795c9",
+      "architecture": "caesar-bcrn-v1",
+      "owner": "arsenious",
+      "owner_id": 24788213,
+      "url": "https://raw.githubusercontent.com/arsenious/UFL_MODELS/f3151ce5686222b9ad1555b8863af784c45bb297/conc_a.pt"
     }
   ],
   "retired_models": [
