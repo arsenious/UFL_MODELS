@@ -33,21 +33,6 @@
       "owner_id": 173562962
     },
     {
-      "name": "eelsM1",
-      "id": "ufl:3@sha256:1adf19f5bcfd15db5a98eab2db234392862d31a871ca854db45a1b275aa7fffb",
-      "sha256": "1adf19f5bcfd15db5a98eab2db234392862d31a871ca854db45a1b275aa7fffb",
-      "description": "Domain fine-tune of the CAESAR foundation model for EELS; trained and tested on one EELS dataset, with 3D\u20135D inputs.",
-      "filename": "eelsM1.pt",
-      "url": "https://raw.githubusercontent.com/UFcompressor/UFL_MODELS/872cb58e71be4c55caaf2731af315b887f4b11da/eelsM1.pt",
-      "min_dims": 3,
-      "max_dims": 5,
-      "architecture": "caesar-bcrn-v1",
-      "display_name": "eelsM1",
-      "registration_id": 3,
-      "owner": "E53klasky",
-      "owner_id": 173562962
-    },
-    {
       "name": "microscopy",
       "id": "ufl:4@sha256:c6c5f93c96d8c0fcb0cae5d77f6a3f1fc182be4bf7eed560cffca45de5d5db22",
       "sha256": "c6c5f93c96d8c0fcb0cae5d77f6a3f1fc182be4bf7eed560cffca45de5d5db22",
@@ -91,6 +76,23 @@
       "owner": "arsenious",
       "owner_id": 24788213,
       "url": "https://raw.githubusercontent.com/arsenious/UFL_MODELS/88cbb73df0b24b223a292c8685057376784bb49e/rahul_isabel_tc_v1.pt"
+    }
+  ],
+  "retired_models": [
+    {
+      "name": "eelsM1",
+      "id": "ufl:3@sha256:1adf19f5bcfd15db5a98eab2db234392862d31a871ca854db45a1b275aa7fffb",
+      "sha256": "1adf19f5bcfd15db5a98eab2db234392862d31a871ca854db45a1b275aa7fffb",
+      "description": "Domain fine-tune of the CAESAR foundation model for EELS; trained and tested on one EELS dataset, with 3D\u20135D inputs.",
+      "filename": "eelsM1.pt",
+      "url": "https://raw.githubusercontent.com/UFcompressor/UFL_MODELS/872cb58e71be4c55caaf2731af315b887f4b11da/eelsM1.pt",
+      "min_dims": 3,
+      "max_dims": 5,
+      "architecture": "caesar-bcrn-v1",
+      "display_name": "eelsM1",
+      "registration_id": 3,
+      "owner": "E53klasky",
+      "owner_id": 173562962
     }
   ]
 }
